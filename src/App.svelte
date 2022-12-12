@@ -97,7 +97,7 @@
       height: 47px;
       width: 370px;
       color: #000000;
-      font-size: 17px;
+      font-size: 17.1px;
       padding-left: 20px;
       padding-top: 4px;
       box-shadow: none;
