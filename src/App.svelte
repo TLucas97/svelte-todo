@@ -94,7 +94,7 @@
     input[type="text"] {
       border: 2px solid #afbdcf;
       border-radius: 5px;
-      height: 47px;
+      height: 47.1px;
       width: 370px;
       color: #000000;
       font-size: 17.1px;
