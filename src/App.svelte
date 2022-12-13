@@ -94,10 +94,10 @@
     input[type="text"] {
       border: 2px solid #afbdcf;
       border-radius: 5px;
-      height: 47.1px;
+      height: 47px;
       width: 370px;
       color: #000000;
-      font-size: 17.1px;
+      font-size: 17px;
       padding-left: 20px;
       padding-top: 4px;
       box-shadow: none;
